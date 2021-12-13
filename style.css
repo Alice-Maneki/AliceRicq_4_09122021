@@ -698,7 +698,7 @@ p {
     justify-content: center;
     font-size: 15px;
     font-weight: bold;
-    color: #F3976C;
+    color: #333333;
 }
 
 .tight-width-whitespace {
@@ -841,7 +841,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
